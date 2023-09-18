@@ -1,2 +1,2 @@
-# lab-4
-This is my lab 4 repository
+# lab4
+This is the lab-4 repository I created.
